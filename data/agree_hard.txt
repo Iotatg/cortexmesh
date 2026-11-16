@@ -1,0 +1,28 @@
+# Hard held-out pairs: longer distance, two stacked PPs, nested relative clauses. The head has to
+# survive more distractors than in data/agree_heldout.txt.
+agreement_adjacent|the files in the room near the park|work|works|0
+agreement_adjacent|the file in the room near the park|works|work|0
+agreement_adjacent|the cars on the table with the coach|open|opens|0
+agreement_adjacent|the car on the table with the coach|opens|open|0
+agreement_long|the files that the women in the park saw|work|works|0
+agreement_long|the file that the women in the park saw|works|work|0
+agreement_long|the cars that the men near the room found|open|opens|0
+agreement_long|the car that the men near the room found|opens|open|0
+agreement_long|the files that the cars that the men saw hit|work|works|0
+agreement_long|the file that the cars that the men saw hit|works|work|0
+agreement_long|the coaches that the women who the men saw found|have|has|0
+agreement_long|the coach that the women who the men saw found|has|have|0
+determiner_noun|a|coach|coaches|0
+determiner_noun|that|woman|women|0
+determiner_noun|this|park|parks|0
+determiner_noun|these|women|woman|0
+determiner_noun|those|coaches|coach|0
+determiner_noun|many|coaches|coach|0
+determiner_noun|much|water|waters|0
+aux_agreement|she|works|work|0
+aux_agreement|it|opens|open|0
+aux_agreement|we|find|finds|0
+aux_agreement|the woman|has|have|0
+aux_agreement|the women|have|has|0
+one_of|one of the coaches|has|have|0
+one_of|one of the cars|opens|open|0

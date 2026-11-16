@@ -1,0 +1,28 @@
+# Held-out minimal pairs. Same lexicon as the corpus, but different words, verbs and
+# prepositions than the pairs in tools/grammar.cpp. A model that learned number agreement gets
+# these; a model that memorised the tuned pairs does not.
+agreement_adjacent|the files near the room|work|works|0
+agreement_adjacent|the file near the room|works|work|0
+agreement_adjacent|the cars with the new coach|open|opens|0
+agreement_adjacent|the car with the new coach|opens|open|0
+agreement_adjacent|the waters in the park|find|finds|0
+agreement_adjacent|the water in the park|finds|find|0
+agreement_adjacent|the coach with the new cars|has|have|0
+agreement_adjacent|the cars with the new coach|open|opens|0
+agreement_long|the files that the women opened|work|works|0
+agreement_long|the file that the women opened|works|work|0
+agreement_long|the cars that the child found|open|opens|0
+agreement_long|the car that the child found|opens|open|0
+agreement_long|the coaches that the men saw|work|works|0
+agreement_long|the coach that the man saw|works|work|0
+determiner_noun|a|file|files|0
+determiner_noun|this|coach|coaches|0
+determiner_noun|these|coaches|coach|0
+determiner_noun|that|room|rooms|0
+determiner_noun|those|tables|table|0
+aux_agreement|she|works|work|0
+aux_agreement|it|opens|open|0
+aux_agreement|the coach|has|have|0
+aux_agreement|the coaches|have|has|0
+one_of|one of the files|works|work|0
+one_of|one of the coaches|is|are|0
